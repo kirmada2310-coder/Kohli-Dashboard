@@ -44,7 +44,7 @@ The dataset used in this project includes detailed match-by-match performance da
 - Cleaned and transformed for analysis  
 - Used for creating interactive visuals in Power BI  
 
-File: [kohli_internationalcareer.csv](kohli_internationalcareer.csv)v
+File: [kohli_internationalcareer.csv](kohli_internationalcareer.csv)
 
 ---
 
